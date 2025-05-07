@@ -1,0 +1,1415 @@
+[
+    {
+        "image": "Рисунок1.jpg",
+        "correct_answer": "Эфедра хвощевая (Ephedra equisetina Bunge)",
+        "wrong_answers": [
+            "Можжевельник обыкновенный (Juniperus communis L.)",
+            "Пихта сибирская (Abies sibirica Ledeb.)",
+            "Лиственница сибирская (Larix sibirica Ledeb.)"
+        ]
+    },
+    {
+        "image": "Рисунок2.jpg",
+        "correct_answer": "Можжевельник обыкновенный (Juniperus communis L.)",
+        "wrong_answers": [
+            "Пихта сибирская (Abies sibirica Ledeb.)",
+            "Лиственница сибирская (Larix sibirica Ledeb.)",
+            "Сосна сибирская (Pinus sibirica Du Tour)"
+        ]
+    },
+    {
+        "image": "Рисунок3.jpg",
+        "correct_answer": "Пихта сибирская (Abies sibirica Ledeb.)",
+        "wrong_answers": [
+            "Лиственница сибирская (Larix sibirica Ledeb.)",
+            "Сосна сибирская (Pinus sibirica Du Tour)",
+            "Сосна обыкновенная (Pinus sylvestris L.)"
+        ]
+    },
+    {
+        "image": "Рисунок4.jpg",
+        "correct_answer": "Лиственница сибирская (Larix sibirica Ledeb.)",
+        "wrong_answers": [
+            "Сосна сибирская (Pinus sibirica Du Tour)",
+            "Сосна обыкновенная (Pinus sylvestris L.)",
+            "Кочедыжник женский (Athyrium filix-femina L.)"
+        ]
+    },
+    {
+        "image": "Рисунок5.jpg",
+        "correct_answer": "Сосна сибирская (Pinus sibirica Du Tour)",
+        "wrong_answers": [
+            "Сосна обыкновенная (Pinus sylvestris L.)",
+            "Кочедыжник женский (Athyrium filix-femina L.)",
+            "Щитовник шартрский (Dryopteris carthusiana Vill.)"
+        ]
+    },
+    {
+        "image": "Рисунок6.jpg",
+        "correct_answer": "Сосна обыкновенная (Pinus sylvestris L.)",
+        "wrong_answers": [
+            "Кочедыжник женский (Athyrium filix-femina L.)",
+            "Щитовник шартрский (Dryopteris carthusiana Vill.)",
+            "Щитовник мужской (Dryopteris filix-mas L.)"
+        ]
+    },
+    {
+        "image": "Рисунок7.jpg",
+        "correct_answer": "Кочедыжник женский (Athyrium filix-femina L.)",
+        "wrong_answers": [
+            "Щитовник шартрский (Dryopteris carthusiana Vill.)",
+            "Щитовник мужской (Dryopteris filix-mas L.)",
+            "Хвощ лесной (Equisetum sylvaticum L.)"
+        ]
+    },
+    {
+        "image": "Рисунок8.jpg",
+        "correct_answer": "Щитовник шартрский (Dryopteris carthusiana Vill.)",
+        "wrong_answers": [
+            "Щитовник мужской (Dryopteris filix-mas L.)",
+            "Хвощ лесной (Equisetum sylvaticum L.)",
+            "Хвощ луговой (Equisetum pratense L.)"
+        ]
+    },
+    {
+        "image": "Рисунок9.jpg",
+        "correct_answer": "Щитовник мужской (Dryopteris filix-mas L.)",
+        "wrong_answers": [
+            "Хвощ лесной (Equisetum sylvaticum L.)",
+            "Хвощ луговой (Equisetum pratense L.)",
+            "Хвощ полевой (Equisetum arvense L.)"
+        ]
+    },
+    {
+        "image": "Рисунок10.jpg",
+        "correct_answer": "Хвощ лесной (Equisetum sylvaticum L.)",
+        "wrong_answers": [
+            "Хвощ луговой (Equisetum pratense L.)",
+            "Хвощ полевой (Equisetum arvense L.)",
+            "Плаун сплюснутый (Lycopodium complanatum L.)"
+        ]
+    },
+    {
+        "image": "Рисунок11.jpg",
+        "correct_answer": "Хвощ луговой (Equisetum pratense L.)",
+        "wrong_answers": [
+            "Хвощ полевой (Equisetum arvense L.)",
+            "Плаун сплюснутый (Lycopodium complanatum L.)",
+            "Плаун годичный (Lycopodium annotinum L.)"
+        ]
+    },
+    {
+        "image": "Рисунок12.jpg",
+        "correct_answer": "Хвощ полевой (Equisetum arvense L.)",
+        "wrong_answers": [
+            "Плаун сплюснутый (Lycopodium complanatum L.)",
+            "Плаун годичный (Lycopodium annotinum L.)",
+            "Плаун булавовидный (Lycopodium clavatum L.)"
+        ]
+    },
+    {
+        "image": "Рисунок13.jpg",
+        "correct_answer": "Плаун сплюснутый (Lycopodium complanatum L.)",
+        "wrong_answers": [
+            "Плаун годичный (Lycopodium annotinum L.)",
+            "Плаун булавовидный (Lycopodium clavatum L.)",
+            "Сфагнум растопыренный (Sphagnum squarrosum Pers.)"
+        ]
+    },
+    {
+        "image": "Рисунок14.jpg",
+        "correct_answer": "Плаун годичный (Lycopodium annotinum L.)",
+        "wrong_answers": [
+            "Плаун булавовидный (Lycopodium clavatum L.)",
+            "Сфагнум растопыренный (Sphagnum squarrosum Pers.)",
+            "Кукушкин лён обыкновенный (Polytrichum commune L.)"
+        ]
+    },
+    {
+        "image": "Рисунок15.jpg",
+        "correct_answer": "Плаун булавовидный (Lycopodium clavatum L.)",
+        "wrong_answers": [
+            "Сфагнум растопыренный (Sphagnum squarrosum Pers.)",
+            "Кукушкин лён обыкновенный (Polytrichum commune L.)",
+            "Маршанция обыкновенная (Marchantia polymorpha L.)"
+        ]
+    },
+    {
+        "image": "Рисунок16.jpg",
+        "correct_answer": "Сфагнум растопыренный (Sphagnum squarrosum Pers.)",
+        "wrong_answers": [
+            "Кукушкин лён обыкновенный (Polytrichum commune L.)",
+            "Маршанция обыкновенная (Marchantia polymorpha L.)",
+            "Аир болотный (Acorus calamus L.)"
+        ]
+    },
+    {
+        "image": "Рисунок17.jpg",
+        "correct_answer": "Кукушкин лён обыкновенный (Polytrichum commune L.)",
+        "wrong_answers": [
+            "Маршанция обыкновенная (Marchantia polymorpha L.)",
+            "Аир болотный (Acorus calamus L.)",
+            "Кукуруза обыкновенная (Zea mays L.)"
+        ]
+    },
+    {
+        "image": "Рисунок18.jpg",
+        "correct_answer": "Маршанция обыкновенная (Marchantia polymorpha L.)",
+        "wrong_answers": [
+            "Аир болотный (Acorus calamus L.)",
+            "Кукуруза обыкновенная (Zea mays L.)",
+            "Пшеница мягкая (Triticum aestivum L.)"
+        ]
+    },
+    {
+        "image": "Рисунок19.jpg",
+        "correct_answer": "Аир болотный (Acorus calamus L.)",
+        "wrong_answers": [
+            "Кукуруза обыкновенная (Zea mays L.)",
+            "Пшеница мягкая (Triticum aestivum L.)",
+            "Рожь посевная (Secale cereale L.)"
+        ]
+    },
+    {
+        "image": "Рисунок20.jpg",
+        "correct_answer": "Кукуруза обыкновенная (Zea mays L.)",
+        "wrong_answers": [
+            "Пшеница мягкая (Triticum aestivum L.)",
+            "Рожь посевная (Secale cereale L.)",
+            "Элитригия ползучая (Пырей ползучий) (Elytrigia repens L.)"
+        ]
+    },
+    {
+        "image": "Рисунок21.jpg",
+        "correct_answer": "Пшеница мягкая (Triticum aestivum L.)",
+        "wrong_answers": [
+            "Рожь посевная (Secale cereale L.)",
+            "Элитригия ползучая (Пырей ползучий) (Elytrigia repens L.)",
+            "Овес посевной (Avena sativa L.)"
+        ]
+    },
+    {
+        "image": "Рисунок22.jpg",
+        "correct_answer": "Рожь посевная (Secale cereale L.)",
+        "wrong_answers": [
+            "Элитригия ползучая (Пырей ползучий) (Elytrigia repens L.)",
+            "Овес посевной (Avena sativa L.)",
+            "Пальчатокоренник пятнистый (Dactylorhiza maculata L.)"
+        ]
+    },
+    {
+        "image": "Рисунок23.jpg",
+        "correct_answer": "Элитригия ползучая (Пырей ползучий) (Elytrigia repens L.)",
+        "wrong_answers": [
+            "Овес посевной (Avena sativa L.)",
+            "Пальчатокоренник пятнистый (Dactylorhiza maculata L.)",
+            "Любка двулистная (Platanthera bifolia L.)"
+        ]
+    },
+    {
+        "image": "Рисунок24.jpg",
+        "correct_answer": "Овес посевной (Avena sativa L.)",
+        "wrong_answers": [
+            "Пальчатокоренник пятнистый (Dactylorhiza maculata L.)",
+            "Любка двулистная (Platanthera bifolia L.)",
+            "Лимонник китайский (Schisandra chinensis L.)"
+        ]
+    },
+    {
+        "image": "Рисунок25.jpg",
+        "correct_answer": "Пальчатокоренник пятнистый (Dactylorhiza maculata L.)",
+        "wrong_answers": [
+            "Любка двулистная (Platanthera bifolia L.)",
+            "Лимонник китайский (Schisandra chinensis L.)",
+            "Первоцвет обыкновенный (Primula veris L.)"
+        ]
+    },
+    {
+        "image": "Рисунок26.jpg",
+        "correct_answer": "Любка двулистная (Platanthera bifolia L.)",
+        "wrong_answers": [
+            "Лимонник китайский (Schisandra chinensis L.)",
+            "Первоцвет обыкновенный (Primula veris L.)",
+            "Фиалка собачья (Viola canina L.)"
+        ]
+    },
+    {
+        "image": "Рисунок27.jpg",
+        "correct_answer": "Лимонник китайский (Schisandra chinensis L.)",
+        "wrong_answers": [
+            "Первоцвет обыкновенный (Primula veris L.)",
+            "Фиалка собачья (Viola canina L.)",
+            "Фиалка трёхцветная (Viola tricolor L.)"
+        ]
+    },
+    {
+        "image": "Рисунок28.jpg",
+        "correct_answer": "Первоцвет обыкновенный (Primula veris L.)",
+        "wrong_answers": [
+            "Фиалка собачья (Viola canina L.)",
+            "Фиалка трёхцветная (Viola tricolor L.)",
+            "Скумпия кожевидная (Cotinus coggygria Scop.)"
+        ]
+    },
+    {
+        "image": "Рисунок29.jpg",
+        "correct_answer": "Фиалка собачья (Viola canina L.)",
+        "wrong_answers": [
+            "Фиалка трёхцветная (Viola tricolor L.)",
+            "Скумпия кожевидная (Cotinus coggygria Scop.)",
+            "Синюха голубая (Polemonium coeruleum L.)"
+        ]
+    },
+    {
+        "image": "Рисунок30.jpg",
+        "correct_answer": "Фиалка трёхцветная (Viola tricolor L.)",
+        "wrong_answers": [
+            "Скумпия кожевидная (Cotinus coggygria Scop.)",
+            "Синюха голубая (Polemonium coeruleum L.)",
+            "Облепиха крушиновидная (Hippophae rhamnoides)"
+        ]
+    },
+    {
+        "image": "Рисунок31.jpg",
+        "correct_answer": "Скумпия кожевидная (Cotinus coggygria Scop.)",
+        "wrong_answers": [
+            "Синюха голубая (Polemonium coeruleum L.)",
+            "Облепиха крушиновидная (Hippophae rhamnoides)",
+            "Каштан конский (Aesculus hippocastanum L.)"
+        ]
+    },
+    {
+        "image": "Рисунок32.jpg",
+        "correct_answer": "Синюха голубая (Polemonium coeruleum L.)",
+        "wrong_answers": [
+            "Облепиха крушиновидная (Hippophae rhamnoides)",
+            "Каштан конский (Aesculus hippocastanum L.)",
+            "Зверобой продырявленный (Hypericum perforatum L.)"
+        ]
+    },
+    {
+        "image": "Рисунок33.jpg",
+        "correct_answer": "Облепиха крушиновидная (Hippophae rhamnoides)",
+        "wrong_answers": [
+            "Каштан конский (Aesculus hippocastanum L.)",
+            "Зверобой продырявленный (Hypericum perforatum L.)",
+            "Бадан толстолистный (Bergenia crassifolia L.)"
+        ]
+    },
+    {
+        "image": "Рисунок34.jpg",
+        "correct_answer": "Каштан конский (Aesculus hippocastanum L.)",
+        "wrong_answers": [
+            "Зверобой продырявленный (Hypericum perforatum L.)",
+            "Бадан толстолистный (Bergenia crassifolia L.)",
+            "Смородина чёрная (Ribes nigrum L.)"
+        ]
+    },
+    {
+        "image": "Рисунок35.jpg",
+        "correct_answer": "Зверобой продырявленный (Hypericum perforatum L.)",
+        "wrong_answers": [
+            "Бадан толстолистный (Bergenia crassifolia L.)",
+            "Смородина чёрная (Ribes nigrum L.)",
+            "Жостер слабительный (Rhamnus cathartica L.)"
+        ]
+    },
+    {
+        "image": "Рисунок36.jpg",
+        "correct_answer": "Бадан толстолистный (Bergenia crassifolia L.)",
+        "wrong_answers": [
+            "Смородина чёрная (Ribes nigrum L.)",
+            "Жостер слабительный (Rhamnus cathartica L.)",
+            "Крушина ольховидная (Frangula alnus Mill.)"
+        ]
+    },
+    {
+        "image": "Рисунок37.jpg",
+        "correct_answer": "Смородина чёрная (Ribes nigrum L.)",
+        "wrong_answers": [
+            "Жостер слабительный (Rhamnus cathartica L.)",
+            "Крушина ольховидная (Frangula alnus Mill.)",
+            "Валериана лекарственная (Valeriana officinalis L.)"
+        ]
+    },
+    {
+        "image": "Рисунок38.jpg",
+        "correct_answer": "Жостер слабительный (Rhamnus cathartica L.)",
+        "wrong_answers": [
+            "Крушина ольховидная (Frangula alnus Mill.)",
+            "Валериана лекарственная (Valeriana officinalis L.)",
+            "Вахта трехлистная (Menyanthes trifoliata L.)"
+        ]
+    },
+    {
+        "image": "Рисунок39.jpg",
+        "correct_answer": "Крушина ольховидная (Frangula alnus Mill.)",
+        "wrong_answers": [
+            "Валериана лекарственная (Valeriana officinalis L.)",
+            "Вахта трехлистная (Menyanthes trifoliata L.)",
+            "Жимолость татарская (Lonicera tatarica L.)"
+        ]
+    },
+    {
+        "image": "Рисунок40.jpg",
+        "correct_answer": "Валериана лекарственная (Valeriana officinalis L.)",
+        "wrong_answers": [
+            "Вахта трехлистная (Menyanthes trifoliata L.)",
+            "Жимолость татарская (Lonicera tatarica L.)",
+            "Бузина черная (Sambucus nigra L.)"
+        ]
+    },
+    {
+        "image": "Рисунок41.jpg",
+        "correct_answer": "Вахта трехлистная (Menyanthes trifoliata L.)",
+        "wrong_answers": [
+            "Жимолость татарская (Lonicera tatarica L.)",
+            "Бузина черная (Sambucus nigra L.)",
+            "Бузина кистевая (Sambucus racemosa L.)"
+        ]
+    },
+    {
+        "image": "Рисунок42.jpg",
+        "correct_answer": "Жимолость татарская (Lonicera tatarica L.)",
+        "wrong_answers": [
+            "Бузина черная (Sambucus nigra L.)",
+            "Бузина кистевая (Sambucus racemosa L.)",
+            "Калина обыкновенная (Viburnum opulus L.)"
+        ]
+    },
+    {
+        "image": "Рисунок43.jpg",
+        "correct_answer": "Бузина черная (Sambucus nigra L.)",
+        "wrong_answers": [
+            "Бузина кистевая (Sambucus racemosa L.)",
+            "Калина обыкновенная (Viburnum opulus L.)",
+            "Подорожник большой (Plantago major L.)"
+        ]
+    },
+    {
+        "image": "Рисунок44.jpg",
+        "correct_answer": "Бузина кистевая (Sambucus racemosa L.)",
+        "wrong_answers": [
+            "Калина обыкновенная (Viburnum opulus L.)",
+            "Подорожник большой (Plantago major L.)",
+            "Клюква болотная (Oxycoccus palustris Pers.)"
+        ]
+    },
+    {
+        "image": "Рисунок45.jpg",
+        "correct_answer": "Калина обыкновенная (Viburnum opulus L.)",
+        "wrong_answers": [
+            "Подорожник большой (Plantago major L.)",
+            "Клюква болотная (Oxycoccus palustris Pers.)",
+            "Черника обыкновенная (Vaccinium myrtillus L.)"
+        ]
+    },
+    {
+        "image": "Рисунок46.jpg",
+        "correct_answer": "Подорожник большой (Plantago major L.)",
+        "wrong_answers": [
+            "Клюква болотная (Oxycoccus palustris Pers.)",
+            "Черника обыкновенная (Vaccinium myrtillus L.)",
+            "Брусника обыкновенная (Vaccinium vitis-idaea L.)"
+        ]
+    },
+    {
+        "image": "Рисунок47.jpg",
+        "correct_answer": "Клюква болотная (Oxycoccus palustris Pers.)",
+        "wrong_answers": [
+            "Черника обыкновенная (Vaccinium myrtillus L.)",
+            "Брусника обыкновенная (Vaccinium vitis-idaea L.)",
+            "Багульник болотный (Ledum palustre L.)"
+        ]
+    },
+    {
+        "image": "Рисунок48.jpg",
+        "correct_answer": "Черника обыкновенная (Vaccinium myrtillus L.)",
+        "wrong_answers": [
+            "Брусника обыкновенная (Vaccinium vitis-idaea L.)",
+            "Багульник болотный (Ledum palustre L.)",
+            "Толокнянка обыкновенная (Arctostaphylos uva-ursi L.)"
+        ]
+    },
+    {
+        "image": "Рисунок49.jpg",
+        "correct_answer": "Брусника обыкновенная (Vaccinium vitis-idaea L.)",
+        "wrong_answers": [
+            "Багульник болотный (Ledum palustre L.)",
+            "Толокнянка обыкновенная (Arctostaphylos uva-ursi L.)",
+            "Свербига восточная (Bunias orientalis L.)"
+        ]
+    },
+    {
+        "image": "Рисунок50.jpg",
+        "correct_answer": "Багульник болотный (Ledum palustre L.)",
+        "wrong_answers": [
+            "Толокнянка обыкновенная (Arctostaphylos uva-ursi L.)",
+            "Свербига восточная (Bunias orientalis L.)",
+            "Пастушья сумка (Capsella bursa-pastoris L.)"
+        ]
+    },
+    {
+        "image": "Рисунок51.jpg",
+        "correct_answer": "Толокнянка обыкновенная (Arctostaphylos uva-ursi L.)",
+        "wrong_answers": [
+            "Свербига восточная (Bunias orientalis L.)",
+            "Пастушья сумка (Capsella bursa-pastoris L.)",
+            "Горчица белая (Sinapis alba L.)"
+        ]
+    },
+    {
+        "image": "Рисунок52.jpg",
+        "correct_answer": "Свербига восточная (Bunias orientalis L.)",
+        "wrong_answers": [
+            "Пастушья сумка (Capsella bursa-pastoris L.)",
+            "Горчица белая (Sinapis alba L.)",
+            "Горчица черная (Brassica nigra L.)"
+        ]
+    },
+    {
+        "image": "Рисунок53.jpg",
+        "correct_answer": "Пастушья сумка (Capsella bursa-pastoris L.)",
+        "wrong_answers": [
+            "Горчица белая (Sinapis alba L.)",
+            "Горчица черная (Brassica nigra L.)",
+            "Горчица сарептская (Brassica juncea L.)"
+        ]
+    },
+    {
+        "image": "Рисунок54.jpg",
+        "correct_answer": "Горчица белая (Sinapis alba L.)",
+        "wrong_answers": [
+            "Горчица черная (Brassica nigra L.)",
+            "Горчица сарептская (Brassica juncea L.)",
+            "Купырь лесной (Anthriscus sylvestris L.)"
+        ]
+    },
+    {
+        "image": "Рисунок55.jpg",
+        "correct_answer": "Горчица черная (Brassica nigra L.)",
+        "wrong_answers": [
+            "Горчица сарептская (Brassica juncea L.)",
+            "Купырь лесной (Anthriscus sylvestris L.)",
+            "Кориандр посевной (Coriandrum sativum L.)"
+        ]
+    },
+    {
+        "image": "Рисунок56.jpg",
+        "correct_answer": "Горчица сарептская (Brassica juncea L.)",
+        "wrong_answers": [
+            "Купырь лесной (Anthriscus sylvestris L.)",
+            "Кориандр посевной (Coriandrum sativum L.)",
+            "Тмин обыкновенный (Carum carvi L.)"
+        ]
+    },
+    {
+        "image": "Рисунок57.jpg",
+        "correct_answer": "Купырь лесной (Anthriscus sylvestris L.)",
+        "wrong_answers": [
+            "Кориандр посевной (Coriandrum sativum L.)",
+            "Тмин обыкновенный (Carum carvi L.)",
+            "Анис обыкновенный (Anisum vulgare Gaertn.)"
+        ]
+    },
+    {
+        "image": "Рисунок58.jpg",
+        "correct_answer": "Кориандр посевной (Coriandrum sativum L.)",
+        "wrong_answers": [
+            "Тмин обыкновенный (Carum carvi L.)",
+            "Анис обыкновенный (Anisum vulgare Gaertn.)",
+            "Укроп огородный (Anethum graveolens L.)"
+        ]
+    },
+    {
+        "image": "Рисунок59.jpg",
+        "correct_answer": "Тмин обыкновенный (Carum carvi L.)",
+        "wrong_answers": [
+            "Анис обыкновенный (Anisum vulgare Gaertn.)",
+            "Укроп огородный (Anethum graveolens L.)",
+            "Береза повислая (Betula pendula Roth)"
+        ]
+    },
+    {
+        "image": "Рисунок60.jpg",
+        "correct_answer": "Анис обыкновенный (Anisum vulgare Gaertn.)",
+        "wrong_answers": [
+            "Укроп огородный (Anethum graveolens L.)",
+            "Береза повислая (Betula pendula Roth)",
+            "Ольха серая (Alnus incana L.)"
+        ]
+    },
+    {
+        "image": "Рисунок61.jpg",
+        "correct_answer": "Укроп огородный (Anethum graveolens L.)",
+        "wrong_answers": [
+            "Береза повислая (Betula pendula Roth)",
+            "Ольха серая (Alnus incana L.)",
+            "Ольха клейкая (Alnus glutinosa Gaertn.)"
+        ]
+    },
+    {
+        "image": "Рисунок62.jpg",
+        "correct_answer": "Береза повислая (Betula pendula Roth)",
+        "wrong_answers": [
+            "Ольха серая (Alnus incana L.)",
+            "Ольха клейкая (Alnus glutinosa Gaertn.)",
+            "Дуб черешчатый (Quercus robur L.)"
+        ]
+    },
+    {
+        "image": "Рисунок63.jpg",
+        "correct_answer": "Ольха серая (Alnus incana L.)",
+        "wrong_answers": [
+            "Ольха клейкая (Alnus glutinosa Gaertn.)",
+            "Дуб черешчатый (Quercus robur L.)",
+            "Крапива двудомная (Urtica dioica L.)"
+        ]
+    },
+    {
+        "image": "Рисунок64.jpg",
+        "correct_answer": "Ольха клейкая (Alnus glutinosa Gaertn.)",
+        "wrong_answers": [
+            "Дуб черешчатый (Quercus robur L.)",
+            "Крапива двудомная (Urtica dioica L.)",
+            "Щавель конский (Rumex confertus Willd.)"
+        ]
+    },
+    {
+        "image": "Рисунок65.jpg",
+        "correct_answer": "Дуб черешчатый (Quercus robur L.)",
+        "wrong_answers": [
+            "Крапива двудомная (Urtica dioica L.)",
+            "Щавель конский (Rumex confertus Willd.)",
+            "Горец почечуйный (Polygonum persicaria L.)"
+        ]
+    },
+    {
+        "image": "Рисунок66.jpg",
+        "correct_answer": "Крапива двудомная (Urtica dioica L.)",
+        "wrong_answers": [
+            "Щавель конский (Rumex confertus Willd.)",
+            "Горец почечуйный (Polygonum persicaria L.)",
+            "Горец перечный (Polygonum hydropiper L.)"
+        ]
+    },
+    {
+        "image": "Рисунок67.jpg",
+        "correct_answer": "Щавель конский (Rumex confertus Willd.)",
+        "wrong_answers": [
+            "Горец почечуйный (Polygonum persicaria L.)",
+            "Горец перечный (Polygonum hydropiper L.)",
+            "Горец змеиный (Polygonum bistorta L.)"
+        ]
+    },
+    {
+        "image": "Рисунок68.jpg",
+        "correct_answer": "Горец почечуйный (Polygonum persicaria L.)",
+        "wrong_answers": [
+            "Горец перечный (Polygonum hydropiper L.)",
+            "Горец змеиный (Polygonum bistorta L.)",
+            "Горец птичий (Polygonum aviculare L.)"
+        ]
+    },
+    {
+        "image": "Рисунок69.jpg",
+        "correct_answer": "Горец перечный (Polygonum hydropiper L.)",
+        "wrong_answers": [
+            "Горец змеиный (Polygonum bistorta L.)",
+            "Горец птичий (Polygonum aviculare L.)",
+            "Вороний глаз (Paris quadrifolia)"
+        ]
+    },
+    {
+        "image": "Рисунок70.jpg",
+        "correct_answer": "Горец змеиный (Polygonum bistorta L.)",
+        "wrong_answers": [
+            "Горец птичий (Polygonum aviculare L.)",
+            "Вороний глаз (Paris quadrifolia)",
+            "Спаржа лекарственная (Asparagus officinalis L.)"
+        ]
+    },
+    {
+        "image": "Рисунок71.jpg",
+        "correct_answer": "Горец птичий (Polygonum aviculare L.)",
+        "wrong_answers": [
+            "Вороний глаз (Paris quadrifolia)",
+            "Спаржа лекарственная (Asparagus officinalis L.)",
+            "Майник двулистный (Maianthemum bifolium)"
+        ]
+    },
+    {
+        "image": "Рисунок72.jpg",
+        "correct_answer": "Вороний глаз (Paris quadrifolia)",
+        "wrong_answers": [
+            "Спаржа лекарственная (Asparagus officinalis L.)",
+            "Майник двулистный (Maianthemum bifolium)",
+            "Купена душистая (Polygonatum odoratum)"
+        ]
+    },
+    {
+        "image": "Рисунок73.jpg",
+        "correct_answer": "Спаржа лекарственная (Asparagus officinalis L.)",
+        "wrong_answers": [
+            "Майник двулистный (Maianthemum bifolium)",
+            "Купена душистая (Polygonatum odoratum)",
+            "Ландыш майский (Convallaria majalis L.)"
+        ]
+    },
+    {
+        "image": "Рисунок74.jpg",
+        "correct_answer": "Майник двулистный (Maianthemum bifolium)",
+        "wrong_answers": [
+            "Купена душистая (Polygonatum odoratum)",
+            "Ландыш майский (Convallaria majalis L.)",
+            "Пролеска сибирская (Scilla sibirica Haw.)"
+        ]
+    },
+    {
+        "image": "Рисунок75.jpg",
+        "correct_answer": "Купена душистая (Polygonatum odoratum)",
+        "wrong_answers": [
+            "Ландыш майский (Convallaria majalis L.)",
+            "Пролеска сибирская (Scilla sibirica Haw.)",
+            "Гадючий лук незамеченный (Muscari neglectum Guss.)"
+        ]
+    },
+    {
+        "image": "Рисунок76.jpg",
+        "correct_answer": "Ландыш майский (Convallaria majalis L.)",
+        "wrong_answers": [
+            "Пролеска сибирская (Scilla sibirica Haw.)",
+            "Гадючий лук незамеченный (Muscari neglectum Guss.)",
+            "Лук посевной (Allium sativum L.)"
+        ]
+    },
+    {
+        "image": "Рисунок77.jpg",
+        "correct_answer": "Пролеска сибирская (Scilla sibirica Haw.)",
+        "wrong_answers": [
+            "Гадючий лук незамеченный (Muscari neglectum Guss.)",
+            "Лук посевной (Allium sativum L.)",
+            "Лук репчатый (Allium cepa L.)"
+        ]
+    },
+    {
+        "image": "Рисунок78.jpg",
+        "correct_answer": "Гадючий лук незамеченный (Muscari neglectum Guss.)",
+        "wrong_answers": [
+            "Лук посевной (Allium sativum L.)",
+            "Лук репчатый (Allium cepa L.)",
+            "Рябчик шахматный (Fritillaria meleagris L.)"
+        ]
+    },
+    {
+        "image": "Рисунок79.jpg",
+        "correct_answer": "Лук посевной (Allium sativum L.)",
+        "wrong_answers": [
+            "Лук репчатый (Allium cepa L.)",
+            "Рябчик шахматный (Fritillaria meleagris L.)",
+            "Гусиный лук желтый (Gagea lutea L.)"
+        ]
+    },
+    {
+        "image": "Рисунок80.jpg",
+        "correct_answer": "Лук репчатый (Allium cepa L.)",
+        "wrong_answers": [
+            "Рябчик шахматный (Fritillaria meleagris L.)",
+            "Гусиный лук желтый (Gagea lutea L.)",
+            "Мать-и-мачеха обыкновенная (Tussilago farfara L.)"
+        ]
+    },
+    {
+        "image": "Рисунок81.jpg",
+        "correct_answer": "Рябчик шахматный (Fritillaria meleagris L.)",
+        "wrong_answers": [
+            "Гусиный лук желтый (Gagea lutea L.)",
+            "Мать-и-мачеха обыкновенная (Tussilago farfara L.)",
+            "Пижма обыкновенная (Tanacetum vulgare L.)"
+        ]
+    },
+    {
+        "image": "Рисунок82.jpg",
+        "correct_answer": "Гусиный лук желтый (Gagea lutea L.)",
+        "wrong_answers": [
+            "Мать-и-мачеха обыкновенная (Tussilago farfara L.)",
+            "Пижма обыкновенная (Tanacetum vulgare L.)",
+            "Нивяник обыкновенный (Leucanthemum vulgare Lam.)"
+        ]
+    },
+    {
+        "image": "Рисунок83.jpg",
+        "correct_answer": "Мать-и-мачеха обыкновенная (Tussilago farfara L.)",
+        "wrong_answers": [
+            "Пижма обыкновенная (Tanacetum vulgare L.)",
+            "Нивяник обыкновенный (Leucanthemum vulgare Lam.)",
+            "Бессмертник песчаный (Helichrysum arenarium L.)"
+        ]
+    },
+    {
+        "image": "Рисунок84.jpg",
+        "correct_answer": "Пижма обыкновенная (Tanacetum vulgare L.)",
+        "wrong_answers": [
+            "Нивяник обыкновенный (Leucanthemum vulgare Lam.)",
+            "Бессмертник песчаный (Helichrysum arenarium L.)",
+            "Подсолнечник однолетний (Helianthus annuus L.)"
+        ]
+    },
+    {
+        "image": "Рисунок85.jpg",
+        "correct_answer": "Нивяник обыкновенный (Leucanthemum vulgare Lam.)",
+        "wrong_answers": [
+            "Бессмертник песчаный (Helichrysum arenarium L.)",
+            "Подсолнечник однолетний (Helianthus annuus L.)",
+            "Ромашка пахучая (Chamomilla suaveolens Pursh.)"
+        ]
+    },
+    {
+        "image": "Рисунок86.jpg",
+        "correct_answer": "Бессмертник песчаный (Helichrysum arenarium L.)",
+        "wrong_answers": [
+            "Подсолнечник однолетний (Helianthus annuus L.)",
+            "Ромашка пахучая (Chamomilla suaveolens Pursh.)",
+            "Ромашка аптечная (Chamomilla recutita L.)"
+        ]
+    },
+    {
+        "image": "Рисунок87.jpg",
+        "correct_answer": "Подсолнечник однолетний (Helianthus annuus L.)",
+        "wrong_answers": [
+            "Ромашка пахучая (Chamomilla suaveolens Pursh.)",
+            "Ромашка аптечная (Chamomilla recutita L.)",
+            "Василёк синий (Centaurea cyanus L.)"
+        ]
+    },
+    {
+        "image": "Рисунок88.jpg",
+        "correct_answer": "Ромашка пахучая (Chamomilla suaveolens Pursh.)",
+        "wrong_answers": [
+            "Ромашка аптечная (Chamomilla recutita L.)",
+            "Василёк синий (Centaurea cyanus L.)",
+            "Календула лекарственная (Calendula officinalis L.)"
+        ]
+    },
+    {
+        "image": "Рисунок89.jpg",
+        "correct_answer": "Ромашка аптечная (Chamomilla recutita L.)",
+        "wrong_answers": [
+            "Василёк синий (Centaurea cyanus L.)",
+            "Календула лекарственная (Calendula officinalis L.)",
+            "Череда трёхраздельная (Bidens tripartita L.)"
+        ]
+    },
+    {
+        "image": "Рисунок90.jpg",
+        "correct_answer": "Василёк синий (Centaurea cyanus L.)",
+        "wrong_answers": [
+            "Календула лекарственная (Calendula officinalis L.)",
+            "Череда трёхраздельная (Bidens tripartita L.)",
+            "Полынь обыкновенная (Artemisia vulgaris L.)"
+        ]
+    },
+    {
+        "image": "Рисунок91.jpg",
+        "correct_answer": "Календула лекарственная (Calendula officinalis L.)",
+        "wrong_answers": [
+            "Череда трёхраздельная (Bidens tripartita L.)",
+            "Полынь обыкновенная (Artemisia vulgaris L.)",
+            "Полынь горькая (Artemisia absinthium L.)"
+        ]
+    },
+    {
+        "image": "Рисунок92.jpg",
+        "correct_answer": "Череда трёхраздельная (Bidens tripartita L.)",
+        "wrong_answers": [
+            "Полынь обыкновенная (Artemisia vulgaris L.)",
+            "Полынь горькая (Artemisia absinthium L.)",
+            "Тысячелистник обыкновенный (Achillea millefolium L.)"
+        ]
+    },
+    {
+        "image": "Рисунок93.jpg",
+        "correct_answer": "Полынь обыкновенная (Artemisia vulgaris L.)",
+        "wrong_answers": [
+            "Полынь горькая (Artemisia absinthium L.)",
+            "Тысячелистник обыкновенный (Achillea millefolium L.)",
+            "Одуванчик лекарственный (Taraxacum officinale Wigg.)"
+        ]
+    },
+    {
+        "image": "Рисунок94.jpg",
+        "correct_answer": "Полынь горькая (Artemisia absinthium L.)",
+        "wrong_answers": [
+            "Тысячелистник обыкновенный (Achillea millefolium L.)",
+            "Одуванчик лекарственный (Taraxacum officinale Wigg.)",
+            "Цикорий обыкновенный (Cichorium intybus L.)"
+        ]
+    },
+    {
+        "image": "Рисунок95.jpg",
+        "correct_answer": "Тысячелистник обыкновенный (Achillea millefolium L.)",
+        "wrong_answers": [
+            "Одуванчик лекарственный (Taraxacum officinale Wigg.)",
+            "Цикорий обыкновенный (Cichorium intybus L.)",
+            "Тимьян ползучий (Thymus serpyllum L.)"
+        ]
+    },
+    {
+        "image": "Рисунок96.jpg",
+        "correct_answer": "Одуванчик лекарственный (Taraxacum officinale Wigg.)",
+        "wrong_answers": [
+            "Цикорий обыкновенный (Cichorium intybus L.)",
+            "Тимьян ползучий (Thymus serpyllum L.)",
+            "Шалфей лекарственный (Salvia officinalis L.)"
+        ]
+    },
+    {
+        "image": "Рисунок97.jpg",
+        "correct_answer": "Цикорий обыкновенный (Cichorium intybus L.)",
+        "wrong_answers": [
+            "Тимьян ползучий (Thymus serpyllum L.)",
+            "Шалфей лекарственный (Salvia officinalis L.)",
+            "Душица обыкновенная (Origanum vulgare L.)"
+        ]
+    },
+    {
+        "image": "Рисунок98.jpg",
+        "correct_answer": "Тимьян ползучий (Thymus serpyllum L.)",
+        "wrong_answers": [
+            "Шалфей лекарственный (Salvia officinalis L.)",
+            "Душица обыкновенная (Origanum vulgare L.)",
+            "Мята перечная (Mentha piperita L.)"
+        ]
+    },
+    {
+        "image": "Рисунок99.jpg",
+        "correct_answer": "Шалфей лекарственный (Salvia officinalis L.)",
+        "wrong_answers": [
+            "Душица обыкновенная (Origanum vulgare L.)",
+            "Мята перечная (Mentha piperita L.)",
+            "Пустырник пятилопастный (Leonurus quinquelobatus Gilib.)"
+        ]
+    },
+    {
+        "image": "Рисунок100.jpg",
+        "correct_answer": "Душица обыкновенная (Origanum vulgare L.)",
+        "wrong_answers": [
+            "Мята перечная (Mentha piperita L.)",
+            "Пустырник пятилопастный (Leonurus quinquelobatus Gilib.)",
+            "Лаванда узколистная (Lavandula angustifolia Mill.)"
+        ]
+    },
+    {
+        "image": "Рисунок101.jpg",
+        "correct_answer": "Мята перечная (Mentha piperita L.)",
+        "wrong_answers": [
+            "Пустырник пятилопастный (Leonurus quinquelobatus Gilib.)",
+            "Лаванда узколистная (Lavandula angustifolia Mill.)",
+            "Яснотка белая (Lamium album L.)"
+        ]
+    },
+    {
+        "image": "Рисунок102.jpg",
+        "correct_answer": "Пустырник пятилопастный (Leonurus quinquelobatus Gilib.)",
+        "wrong_answers": [
+            "Лаванда узколистная (Lavandula angustifolia Mill.)",
+            "Яснотка белая (Lamium album L.)",
+            "Будра плющевидная (Glechoma hederacea L.)"
+        ]
+    },
+    {
+        "image": "Рисунок103.jpg",
+        "correct_answer": "Лаванда узколистная (Lavandula angustifolia Mill.)",
+        "wrong_answers": [
+            "Яснотка белая (Lamium album L.)",
+            "Будра плющевидная (Glechoma hederacea L.)",
+            "Зеленчук жёлтый (Galeobdolon luteum Huds.)"
+        ]
+    },
+    {
+        "image": "Рисунок104.jpg",
+        "correct_answer": "Яснотка белая (Lamium album L.)",
+        "wrong_answers": [
+            "Будра плющевидная (Glechoma hederacea L.)",
+            "Зеленчук жёлтый (Galeobdolon luteum Huds.)",
+            "Буквица лекарственная (Betonica officinalis L.)"
+        ]
+    },
+    {
+        "image": "Рисунок105.jpg",
+        "correct_answer": "Будра плющевидная (Glechoma hederacea L.)",
+        "wrong_answers": [
+            "Зеленчук жёлтый (Galeobdolon luteum Huds.)",
+            "Буквица лекарственная (Betonica officinalis L.)",
+            "Живучка ползучая (Ajuga reptans L.)"
+        ]
+    },
+    {
+        "image": "Рисунок106.jpg",
+        "correct_answer": "Зеленчук жёлтый (Galeobdolon luteum Huds.)",
+        "wrong_answers": [
+            "Буквица лекарственная (Betonica officinalis L.)",
+            "Живучка ползучая (Ajuga reptans L.)",
+            "Вероника лекарственная (Veronica officinalis L.)"
+        ]
+    },
+    {
+        "image": "Рисунок107.jpg",
+        "correct_answer": "Буквица лекарственная (Betonica officinalis L.)",
+        "wrong_answers": [
+            "Живучка ползучая (Ajuga reptans L.)",
+            "Вероника лекарственная (Veronica officinalis L.)",
+            "Вероника дубравная (Veronica chamaedrys L.)"
+        ]
+    },
+    {
+        "image": "Рисунок108.jpg",
+        "correct_answer": "Живучка ползучая (Ajuga reptans L.)",
+        "wrong_answers": [
+            "Вероника лекарственная (Veronica officinalis L.)",
+            "Вероника дубравная (Veronica chamaedrys L.)",
+            "Льнянка обыкновенная (Linaria vulgaris L.)"
+        ]
+    },
+    {
+        "image": "Рисунок109.jpg",
+        "correct_answer": "Вероника лекарственная (Veronica officinalis L.)",
+        "wrong_answers": [
+            "Вероника дубравная (Veronica chamaedrys L.)",
+            "Льнянка обыкновенная (Linaria vulgaris L.)",
+            "Наперстянка крупноцветковая (Digitalis grandiflora Mill.)"
+        ]
+    },
+    {
+        "image": "Рисунок110.jpg",
+        "correct_answer": "Вероника дубравная (Veronica chamaedrys L.)",
+        "wrong_answers": [
+            "Льнянка обыкновенная (Linaria vulgaris L.)",
+            "Наперстянка крупноцветковая (Digitalis grandiflora Mill.)",
+            "Паслён клубненосный (Solanum tuberosum L.)"
+        ]
+    },
+    {
+        "image": "Рисунок111.jpg",
+        "correct_answer": "Льнянка обыкновенная (Linaria vulgaris L.)",
+        "wrong_answers": [
+            "Наперстянка крупноцветковая (Digitalis grandiflora Mill.)",
+            "Паслён клубненосный (Solanum tuberosum L.)",
+            "Паслён чёрный (Solanum nigrum L.)"
+        ]
+    },
+    {
+        "image": "Рисунок112.jpg",
+        "correct_answer": "Наперстянка крупноцветковая (Digitalis grandiflora Mill.)",
+        "wrong_answers": [
+            "Паслён клубненосный (Solanum tuberosum L.)",
+            "Паслён чёрный (Solanum nigrum L.)",
+            "Паслён сладко-горький (Solanum dulcamara L.)"
+        ]
+    },
+    {
+        "image": "Рисунок113.jpg",
+        "correct_answer": "Паслён клубненосный (Solanum tuberosum L.)",
+        "wrong_answers": [
+            "Паслён чёрный (Solanum nigrum L.)",
+            "Паслён сладко-горький (Solanum dulcamara L.)",
+            "Скополия карниолийская (Scopolia carniolica Jacq.)"
+        ]
+    },
+    {
+        "image": "Рисунок114.jpg",
+        "correct_answer": "Паслён чёрный (Solanum nigrum L.)",
+        "wrong_answers": [
+            "Паслён сладко-горький (Solanum dulcamara L.)",
+            "Скополия карниолийская (Scopolia carniolica Jacq.)",
+            "Белена чёрная (Hyoscyamus niger L.)"
+        ]
+    },
+    {
+        "image": "Рисунок115.jpg",
+        "correct_answer": "Паслён сладко-горький (Solanum dulcamara L.)",
+        "wrong_answers": [
+            "Скополия карниолийская (Scopolia carniolica Jacq.)",
+            "Белена чёрная (Hyoscyamus niger L.)",
+            "Дурман обыкновенный (Datura stramonium L.)"
+        ]
+    },
+    {
+        "image": "Рисунок116.jpg",
+        "correct_answer": "Скополия карниолийская (Scopolia carniolica Jacq.)",
+        "wrong_answers": [
+            "Белена чёрная (Hyoscyamus niger L.)",
+            "Дурман обыкновенный (Datura stramonium L.)",
+            "Красавка обыкновенная (Atropa belladonna L.)"
+        ]
+    },
+    {
+        "image": "Рисунок117.jpg",
+        "correct_answer": "Белена чёрная (Hyoscyamus niger L.)",
+        "wrong_answers": [
+            "Дурман обыкновенный (Datura stramonium L.)",
+            "Красавка обыкновенная (Atropa belladonna L.)",
+            "Лядвенец рогатый (Lotus corniculatus L.)"
+        ]
+    },
+    {
+        "image": "Рисунок118.jpg",
+        "correct_answer": "Дурман обыкновенный (Datura stramonium L.)",
+        "wrong_answers": [
+            "Красавка обыкновенная (Atropa belladonna L.)",
+            "Лядвенец рогатый (Lotus corniculatus L.)",
+            "Горошек мышиный (Vicia cracca L.)"
+        ]
+    },
+    {
+        "image": "Рисунок119.jpg",
+        "correct_answer": "Красавка обыкновенная (Atropa belladonna L.)",
+        "wrong_answers": [
+            "Лядвенец рогатый (Lotus corniculatus L.)",
+            "Горошек мышиный (Vicia cracca L.)",
+            "Клевер луговой (Trifolium pratense L.)"
+        ]
+    },
+    {
+        "image": "Рисунок120.jpg",
+        "correct_answer": "Лядвенец рогатый (Lotus corniculatus L.)",
+        "wrong_answers": [
+            "Горошек мышиный (Vicia cracca L.)",
+            "Клевер луговой (Trifolium pratense L.)",
+            "Термопсис ланцетный (Thermopsis lanceolata R.Br.)"
+        ]
+    },
+    {
+        "image": "Рисунок121.jpg",
+        "correct_answer": "Горошек мышиный (Vicia cracca L.)",
+        "wrong_answers": [
+            "Клевер луговой (Trifolium pratense L.)",
+            "Термопсис ланцетный (Thermopsis lanceolata R.Br.)",
+            "Робиния ложноакациевая (Robinia pseudoacacia L.)"
+        ]
+    },
+    {
+        "image": "Рисунок122.jpg",
+        "correct_answer": "Клевер луговой (Trifolium pratense L.)",
+        "wrong_answers": [
+            "Термопсис ланцетный (Thermopsis lanceolata R.Br.)",
+            "Робиния ложноакациевая (Robinia pseudoacacia L.)",
+            "Донник лекарственный (Melilotus officinalis Pall.)"
+        ]
+    },
+    {
+        "image": "Рисунок123.jpg",
+        "correct_answer": "Термопсис ланцетный (Thermopsis lanceolata R.Br.)",
+        "wrong_answers": [
+            "Робиния ложноакациевая (Robinia pseudoacacia L.)",
+            "Донник лекарственный (Melilotus officinalis Pall.)",
+            "Люпин многолистный (Lupinus polyphyllus Lindl.)"
+        ]
+    },
+    {
+        "image": "Рисунок124.jpg",
+        "correct_answer": "Робиния ложноакациевая (Robinia pseudoacacia L.)",
+        "wrong_answers": [
+            "Донник лекарственный (Melilotus officinalis Pall.)",
+            "Люпин многолистный (Lupinus polyphyllus Lindl.)",
+            "Чина луговая (Lathyrus pratensis L.)"
+        ]
+    },
+    {
+        "image": "Рисунок125.jpg",
+        "correct_answer": "Донник лекарственный (Melilotus officinalis Pall.)",
+        "wrong_answers": [
+            "Люпин многолистный (Lupinus polyphyllus Lindl.)",
+            "Чина луговая (Lathyrus pratensis L.)",
+            "Солодка голая (Glycyrrhiza glabra L.)"
+        ]
+    },
+    {
+        "image": "Рисунок126.jpg",
+        "correct_answer": "Люпин многолистный (Lupinus polyphyllus Lindl.)",
+        "wrong_answers": [
+            "Чина луговая (Lathyrus pratensis L.)",
+            "Солодка голая (Glycyrrhiza glabra L.)",
+            "Карагана древовидная (Caragana arborescens Lam.)"
+        ]
+    },
+    {
+        "image": "Рисунок127.jpg",
+        "correct_answer": "Чина луговая (Lathyrus pratensis L.)",
+        "wrong_answers": [
+            "Солодка голая (Glycyrrhiza glabra L.)",
+            "Карагана древовидная (Caragana arborescens Lam.)",
+            "Миндаль низкий (Amygdalus nana L.)"
+        ]
+    },
+    {
+        "image": "Рисунок128.jpg",
+        "correct_answer": "Солодка голая (Glycyrrhiza glabra L.)",
+        "wrong_answers": [
+            "Карагана древовидная (Caragana arborescens Lam.)",
+            "Миндаль низкий (Amygdalus nana L.)",
+            "Черёмуха обыкновенная (Prunus padus L.)"
+        ]
+    },
+    {
+        "image": "Рисунок129.jpg",
+        "correct_answer": "Карагана древовидная (Caragana arborescens Lam.)",
+        "wrong_answers": [
+            "Миндаль низкий (Amygdalus nana L.)",
+            "Черёмуха обыкновенная (Prunus padus L.)",
+            "Вишня обыкновенная (Prunus cerasus L.)"
+        ]
+    },
+    {
+        "image": "Рисунок130.jpg",
+        "correct_answer": "Миндаль низкий (Amygdalus nana L.)",
+        "wrong_answers": [
+            "Черёмуха обыкновенная (Prunus padus L.)",
+            "Вишня обыкновенная (Prunus cerasus L.)",
+            "Рябина обыкновенная (Sorbus aucuparia L.)"
+        ]
+    },
+    {
+        "image": "Рисунок131.jpg",
+        "correct_answer": "Черёмуха обыкновенная (Prunus padus L.)",
+        "wrong_answers": [
+            "Вишня обыкновенная (Prunus cerasus L.)",
+            "Рябина обыкновенная (Sorbus aucuparia L.)",
+            "Яблоня домашняя (Malus domestica Borkh.)"
+        ]
+    },
+    {
+        "image": "Рисунок132.jpg",
+        "correct_answer": "Вишня обыкновенная (Prunus cerasus L.)",
+        "wrong_answers": [
+            "Рябина обыкновенная (Sorbus aucuparia L.)",
+            "Яблоня домашняя (Malus domestica Borkh.)",
+            "Боярышник кроваво-красный (Crataegus sanguinea Pall.)"
+        ]
+    },
+    {
+        "image": "Рисунок133.jpg",
+        "correct_answer": "Рябина обыкновенная (Sorbus aucuparia L.)",
+        "wrong_answers": [
+            "Яблоня домашняя (Malus domestica Borkh.)",
+            "Боярышник кроваво-красный (Crataegus sanguinea Pall.)",
+            "Кровохлёбка лекарственная (Sanguisorba officinalis L.)"
+        ]
+    },
+    {
+        "image": "Рисунок134.jpg",
+        "correct_answer": "Яблоня домашняя (Malus domestica Borkh.)",
+        "wrong_answers": [
+            "Боярышник кроваво-красный (Crataegus sanguinea Pall.)",
+            "Кровохлёбка лекарственная (Sanguisorba officinalis L.)",
+            "Малина обыкновенная (Rubus idaeus L.)"
+        ]
+    },
+    {
+        "image": "Рисунок135.jpg",
+        "correct_answer": "Боярышник кроваво-красный (Crataegus sanguinea Pall.)",
+        "wrong_answers": [
+            "Кровохлёбка лекарственная (Sanguisorba officinalis L.)",
+            "Малина обыкновенная (Rubus idaeus L.)",
+            "Шиповник морщинистый (Rosa rugosa Thunb.)"
+        ]
+    },
+    {
+        "image": "Рисунок136.jpg",
+        "correct_answer": "Кровохлёбка лекарственная (Sanguisorba officinalis L.)",
+        "wrong_answers": [
+            "Малина обыкновенная (Rubus idaeus L.)",
+            "Шиповник морщинистый (Rosa rugosa Thunb.)",
+            "Лапчатка прямостоячая (Potentilla erecta L.)"
+        ]
+    },
+    {
+        "image": "Рисунок137.jpg",
+        "correct_answer": "Малина обыкновенная (Rubus idaeus L.)",
+        "wrong_answers": [
+            "Шиповник морщинистый (Rosa rugosa Thunb.)",
+            "Лапчатка прямостоячая (Potentilla erecta L.)",
+            "Лапчатка гусиная (Potentilla anserina L.)"
+        ]
+    },
+    {
+        "image": "Рисунок138.jpg",
+        "correct_answer": "Шиповник морщинистый (Rosa rugosa Thunb.)",
+        "wrong_answers": [
+            "Лапчатка прямостоячая (Potentilla erecta L.)",
+            "Лапчатка гусиная (Potentilla anserina L.)",
+            "Гравилат городской (Geum urbanum L.)"
+        ]
+    },
+    {
+        "image": "Рисунок139.jpg",
+        "correct_answer": "Лапчатка прямостоячая (Potentilla erecta L.)",
+        "wrong_answers": [
+            "Лапчатка гусиная (Potentilla anserina L.)",
+            "Гравилат городской (Geum urbanum L.)",
+            "Гравилат речной (Geum rivale L.)"
+        ]
+    },
+    {
+        "image": "Рисунок140.jpg",
+        "correct_answer": "Лапчатка гусиная (Potentilla anserina L.)",
+        "wrong_answers": [
+            "Гравилат городской (Geum urbanum L.)",
+            "Гравилат речной (Geum rivale L.)",
+            "Сабельник болотный (Comarum palustre L.)"
+        ]
+    },
+    {
+        "image": "Рисунок141.jpg",
+        "correct_answer": "Гравилат городской (Geum urbanum L.)",
+        "wrong_answers": [
+            "Гравилат речной (Geum rivale L.)",
+            "Сабельник болотный (Comarum palustre L.)",
+            "Земляника лесная (Fragaria vesca L.)"
+        ]
+    },
+    {
+        "image": "Рисунок142.jpg",
+        "correct_answer": "Гравилат речной (Geum rivale L.)",
+        "wrong_answers": [
+            "Сабельник болотный (Comarum palustre L.)",
+            "Земляника лесная (Fragaria vesca L.)",
+            "Мак самосейка (Papaver rhoeas L.)"
+        ]
+    },
+    {
+        "image": "Рисунок143.jpg",
+        "correct_answer": "Сабельник болотный (Comarum palustre L.)",
+        "wrong_answers": [
+            "Земляника лесная (Fragaria vesca L.)",
+            "Мак самосейка (Papaver rhoeas L.)",
+            "Мачок жёлтый (Glaucium flavum Crantz)"
+        ]
+    },
+    {
+        "image": "Рисунок144.jpg",
+        "correct_answer": "Земляника лесная (Fragaria vesca L.)",
+        "wrong_answers": [
+            "Мак самосейка (Papaver rhoeas L.)",
+            "Мачок жёлтый (Glaucium flavum Crantz)",
+            "Чистотел большой (Chelidonium majus L.)"
+        ]
+    },
+    {
+        "image": "Рисунок145.jpg",
+        "correct_answer": "Мак самосейка (Papaver rhoeas L.)",
+        "wrong_answers": [
+            "Мачок жёлтый (Glaucium flavum Crantz)",
+            "Чистотел большой (Chelidonium majus L.)",
+            "Лютик ползучий (Ranunculus repens L.)"
+        ]
+    },
+    {
+        "image": "Рисунок146.jpg",
+        "correct_answer": "Мачок жёлтый (Glaucium flavum Crantz)",
+        "wrong_answers": [
+            "Чистотел большой (Chelidonium majus L.)",
+            "Лютик ползучий (Ranunculus repens L.)",
+            "Лютик кашубский (Ranunculus cassubicus L.)"
+        ]
+    },
+    {
+        "image": "Рисунок147.jpg",
+        "correct_answer": "Чистотел большой (Chelidonium majus L.)",
+        "wrong_answers": [
+            "Лютик ползучий (Ranunculus repens L.)",
+            "Лютик кашубский (Ranunculus cassubicus L.)",
+            "Лютик едкий (Ranunculus acris L.)"
+        ]
+    },
+    {
+        "image": "Рисунок148.jpg",
+        "correct_answer": "Лютик ползучий (Ranunculus repens L.)",
+        "wrong_answers": [
+            "Лютик кашубский (Ranunculus cassubicus L.)",
+            "Лютик едкий (Ranunculus acris L.)",
+            "Морозник кавказский (Helleborus caucasicus A.Br.)"
+        ]
+    },
+    {
+        "image": "Рисунок149.jpg",
+        "correct_answer": "Лютик кашубский (Ranunculus cassubicus L.)",
+        "wrong_answers": [
+            "Лютик едкий (Ranunculus acris L.)",
+            "Морозник кавказский (Helleborus caucasicus A.Br.)",
+            "Живокость высокая (Delphinium elatum L.)"
+        ]
+    },
+    {
+        "image": "Рисунок150.jpg",
+        "correct_answer": "Лютик едкий (Ranunculus acris L.)",
+        "wrong_answers": [
+            "Морозник кавказский (Helleborus caucasicus A.Br.)",
+            "Живокость высокая (Delphinium elatum L.)",
+            "Чистяк весенний (Ficaria verna Huds.)"
+        ]
+    },
+    {
+        "image": "Рисунок151.jpg",
+        "correct_answer": "Морозник кавказский (Helleborus caucasicus A. Br.)",
+        "wrong_answers": [
+            "Живокость высокая (Delphinium elatum L.)",
+            "Чистяк весенний (Ficaria verna Huds.)",
+            "Сокирки благородные, или Живокость полевая (Delphinium consolida L.)"
+        ]
+    },
+    {
+        "image": "Рисунок152.jpg",
+        "correct_answer": "Живокость высокая (Delphinium elatum L.)",
+        "wrong_answers": [
+            "Чистяк весенний (Ficaria verna Huds.)",
+            "Сокирки благородные, или Живокость полевая (Delphinium consolida L.)",
+            "Ветреница (анемона) лютичная (Anemone ranunculoides L.)"
+        ]
+    },
+    {
+        "image": "Рисунок153.jpg",
+        "correct_answer": "Чистяк весенний (Ficaria verna Huds.)",
+        "wrong_answers": [
+            "Сокирки благородные, или Живокость полевая (Delphinium consolida L.)",
+            "Ветреница (анемона) лютичная (Anemone ranunculoides L.)",
+            "Адонис (горицвет) весенний (Adonis vernalis L.)"
+        ]
+    },
+    {
+        "image": "Рисунок154.jpg",
+        "correct_answer": "Сокирки благородные, или Живокость полевая (Delphinium consolida L.)",
+        "wrong_answers": [
+            "Ветреница (анемона) лютичная (Anemone ranunculoides L.)",
+            "Адонис (горицвет) весенний (Adonis vernalis L.)",
+            "Борец северный (Aconitum septentrionale Koelle)"
+        ]
+    },
+    {
+        "image": "Рисунок155.jpg",
+        "correct_answer": "Ветреница (анемона) лютичная (Anemone ranunculoides L.)",
+        "wrong_answers": [
+            "Адонис (горицвет) весенний (Adonis vernalis L.)",
+            "Борец северный (Aconitum septentrionale Koelle)",
+            "Сокирки благородные, или Живокость полевая (Delphinium consolida L.)"
+        ]
+    },
+    {
+        "image": "Рисунок156.jpg",
+        "correct_answer": "Адонис (горицвет) весенний (Adonis vernalis L.)",
+        "wrong_answers": [
+            "Борец северный (Aconitum septentrionale Koelle)",
+            "Сокирки благородные, или Живокость полевая (Delphinium consolida L.)",
+            "Ветреница (анемона) лютичная (Anemone ranunculoides L.)"
+        ]
+    },
+    {
+        "image": "Рисунок157.jpg",
+        "correct_answer": "Борец северный (Aconitum septentrionale Koelle)",
+        "wrong_answers": [
+            "Сокирки благородные, или Живокость полевая (Delphinium consolida L.)",
+            "Ветреница (анемона) лютичная (Anemone ranunculoides L.)",
+            "Адонис (горицвет) весенний (Adonis vernalis L.)"
+        ]
+    }
+]
