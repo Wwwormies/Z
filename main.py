@@ -13,7 +13,7 @@ from aiogram.client.default import DefaultBotProperties
 from aiogram.types import FSInputFile 
 
 
-BOT_TOKEN = "7865160360:AAFQTzTEGRkYdhEMf3TekrXcjH-24zbC_sw"
+BOT_TOKEN = os.getenv("BOT_TOKEN")  # Вместо hardcoded-токена
 IMAGES_FOLDER = "images"
 QUESTIONS_FILE = "questions.json"
 
