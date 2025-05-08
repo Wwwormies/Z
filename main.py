@@ -9,37 +9,28 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.context import FSMContext
 from aiogram.enums import ParseMode
 from aiogram.utils.keyboard import ReplyKeyboardBuilder
-from aiogram.client.default import DefaultBotProperties
-from aiogram.types import FSInputFile 
+from aiogram.types import FSInputFile
 
+# Токен бота (вынесен в переменные окружения)
+BOT_TOKEN = os.getenv("BOT_TOKEN", "7865160360:AAFQTzTEGRkYdhEMf3TekrXcjH-24zbC_sw")
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")  # Вместо hardcoded-токена
-IMAGES_FOLDER = "images"
-QUESTIONS_FILE = "questions.json"
-
-
-bot = Bot(
-    token=BOT_TOKEN,
-    default=DefaultBotProperties(parse_mode=ParseMode.HTML)
-)
+# Упрощенная инициализация бота без DefaultBotProperties
+bot = Bot(token=BOT_TOKEN, parse_mode=ParseMode.HTML)
 storage = MemoryStorage()
 dp = Dispatcher(storage=storage)
 router = Router()
 dp.include_router(router)
 
-
 class QuizState(StatesGroup):
     playing = State()
 
 def load_questions():
-    
-    if not os.path.exists(QUESTIONS_FILE):
+    if not os.path.exists("questions.json"):
         return []
-    with open(QUESTIONS_FILE, "r", encoding="utf-8") as f:
+    with open("questions.json", "r", encoding="utf-8") as f:
         return json.load(f)
 
 def generate_keyboard(correct, wrongs):
-    
     builder = ReplyKeyboardBuilder()
     options = wrongs + [correct]
     random.shuffle(options)
@@ -51,7 +42,6 @@ def generate_keyboard(correct, wrongs):
 
 @router.message(Command("start"))
 async def start(message: types.Message):
-    
     builder = ReplyKeyboardBuilder()
     builder.add(types.KeyboardButton(text="🎮 Играть"))
     await message.answer(
@@ -61,7 +51,6 @@ async def start(message: types.Message):
 
 @router.message(lambda message: message.text == "🎮 Играть")
 async def start_game(message: types.Message, state: FSMContext):
-    
     questions = load_questions()
     if not questions:
         await message.answer("❌ В базе нет вопросов! Добавьте вопросы в questions.json")
@@ -77,7 +66,6 @@ async def start_game(message: types.Message, state: FSMContext):
     await ask_question(message, state)
 
 async def ask_question(message: types.Message, state: FSMContext):
-    
     data = await state.get_data()
     questions = data["questions"]
     index = data["index"]
@@ -88,10 +76,9 @@ async def ask_question(message: types.Message, state: FSMContext):
         index = 0
     
     question = questions[index]
-    image_path = os.path.join(IMAGES_FOLDER, question["image"])
+    image_path = os.path.join("images", question["image"])
     
     try:
-        
         photo = FSInputFile(image_path)
         await message.answer_photo(
             photo,
@@ -101,9 +88,6 @@ async def ask_question(message: types.Message, state: FSMContext):
                 question["wrong_answers"]
             )
         )
-    except FileNotFoundError:
-        await message.answer(f"❌ Файл изображения {question['image']} не найден!")
-        return await start(message)
     except Exception as e:
         await message.answer(f"⚠️ Ошибка: {str(e)}")
         return await start(message)
@@ -112,7 +96,6 @@ async def ask_question(message: types.Message, state: FSMContext):
 
 @router.message(QuizState.playing)
 async def check_answer(message: types.Message, state: FSMContext):
-   
     if message.text == "❌ Отмена":
         await state.clear()
         await message.answer("Игра остановлена", reply_markup=types.ReplyKeyboardRemove())
@@ -146,7 +129,6 @@ async def check_answer(message: types.Message, state: FSMContext):
     await start(message)
 
 async def main():
-    
     await dp.start_polling(bot)
 
 if __name__ == "__main__":
